@@ -1,19 +1,20 @@
 ---
 layout: post
 title: Syntax Highlighting Post
-excerpt: "Demo post displaying the various ways of highlighting code in Markdown."
+description: "Demo post displaying the various ways of highlighting code in Markdown."
+modified: 2013-08-20
 tags: [sample post, code, highlighting]
-modified: 2014-09-14
-comments: true
+image:
+  feature: abstract-10.jpg
+  credit: dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 
-Syntax highlighting is a feature that displays source code, in different colors and fonts according to the category of terms. This feature facilitates writing in a structured language such as a programming language or a markup language as both structures and syntax errors are visually distinct. Highlighting does not affect the meaning of the text itself; it is intended only for human readers.[^1]
-
-[^1]: <http://en.wikipedia.org/wiki/Syntax_highlighting>
+[Syntax highlighting](http://en.wikipedia.org/wiki/Syntax_highlighting) is a feature that displays source code, in different colors and fonts according to the category of terms. This feature facilitates writing in a structured language such as a programming language or a markup language as both structures and syntax errors are visually distinct. Highlighting does not affect the meaning of the text itself; it is intended only for human readers.
 
 ### Pygments Code Blocks
 
-To modify styling and highlight colors edit `/_sass/_pygments.scss`.
+To modify styling and highlight colors edit `/assets/less/pygments.less` and compile `main.less` with your favorite preprocessor. Or edit `main.css` if that's your thing, the classes you want to modify all begin with `.highlight`.
 
 {% highlight css %}
 #container {
@@ -23,7 +24,9 @@ To modify styling and highlight colors edit `/_sass/_pygments.scss`.
 }
 {% endhighlight %}
 
-{% highlight html %}
+Line numbering enabled:
+
+{% highlight html linenos %}
 {% raw %}
 <nav class="pagination" role="navigation">
     {% if page.previous %}
@@ -73,7 +76,7 @@ end
 
 ### Fenced Code Blocks
 
-To modify styling and highlight colors edit `/_sass/_coderay.scss`. Line numbers and a few other things can be modified in `_config.yml`. Consult [Jekyll's documentation](http://jekyllrb.com/docs/configuration/) for more information.
+To modify styling and highlight colors edit `/assets/less/coderay.less` and compile `main.less` with your favorite preprocessor. Or edit `main.css` if that's your thing, the classes you want to modify all begin with `.coderay`. Line numbers and a few other things can be modified in `_config.yml` under `coderay`.
 
 ~~~ css
 #container {
@@ -119,3 +122,5 @@ end
 An example of a Gist embed below.
 
 {% gist mmistakes/6589546 %}
+
+{% gist 8531391 %}
