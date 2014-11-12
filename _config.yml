@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            My blog
-locale:           en_US
-url:        #      http://buptmiao.github.io 
+title:            我的博客
+locale:           zh_CN
+url:              http://buptmiao.github.io 
 
 
 # Jekyll configuration
@@ -26,11 +26,11 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email: 
-  disqus-shortname: 
+  name: Miao Miao
+  avatar: naruro.jpg
+  bio: "这个人很懒，什么也没有留下 ^_^! "
+  email: 362622365@qq.com
+  disqus-shortname: miaozzzzzz
   twitter: #username
   facebook: #username
   google:
@@ -40,7 +40,7 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
+  github: buptmiao
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
