@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title:            我的博客
-locale:           zh_CN
+locale:           en_US
 url:              http://buptmiao.github.io 
 
 
