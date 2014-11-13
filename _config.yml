@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            首 页
+title:            MiaozZ's site
 locale:           en_US
 url:              //buptmiao.github.io 
 
@@ -26,7 +26,7 @@ kramdown:
 
 # Site owner
 owner:
-  name: Miaozzzzzz
+  name: MiaozZ
   avatar: naruro.jpg
   bio: "这个家伙很懒，什么也没有留下 ^_^! "
   email: 362622365@qq.com
