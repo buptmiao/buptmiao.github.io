@@ -10,6 +10,15 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
+<section id="table-of-contents" class="toc">
+  <header>
+    <h3>Overview</h3>
+  </header>
+<div id="drawer" markdown="1">
+*  Auto generated table of contents
+{:toc}
+</div>
+</section><!-- /#table-of-contents -->
 Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
 
 ## Minimal Mistakes is all about:

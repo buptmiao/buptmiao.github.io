@@ -7,7 +7,6 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-
 <section id="table-of-contents" class="toc">
   <header>
     <h3>Overview</h3>
@@ -17,3 +16,4 @@ image:
 {:toc}
 </div>
 </section><!-- /#table-of-contents -->
+
