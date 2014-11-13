@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            我的博客
+title:            MiaozZ's site
 locale:           zh_CN
-url:              http://buptmiao.github.io 
+url:              //buptmiao.github.io 
 
 
 # Jekyll configuration
@@ -26,9 +26,9 @@ kramdown:
 
 # Site owner
 owner:
-  name: Miao Miao
+  name: MiaozZ
   avatar: naruro.jpg
-  bio: "这个人很懒，什么也没有留下 ^_^! "
+  bio: "这个家伙很懒，什么也没有留下 ^_^! "
   email: 362622365@qq.com
   disqus-shortname: miaozzzzzz
   twitter: #username
