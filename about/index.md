@@ -26,11 +26,11 @@ image:
 ##some links
 * 介绍怎么使用Github Pages建站
 
-<a markdown="0" href="https://pages.github.com/" class="btn">Github Pages 官网</a>
+<div markdown="0"><a href="https://pages.github.com/" class="btn btn-warning">Github Pages</a></div>
 
 * 如果想为自己的网站换个主题
 
-<a markdown="0" href="https://mademistakes.com/articles/minimal-mistakes-jekyll-theme/" class="btn">使用的主题</a>
+<div markdown="0"><a href="https://mademistakes.com/articles/minimal-mistakes-jekyll-theme/" class="btn">minimal mistakes</a></div>
 
 
 
