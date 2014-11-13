@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the Website
+title: **关于本站**
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
@@ -25,8 +25,12 @@ image:
 
 ##以下是相关链接：
 * 介绍怎么使用Github Pages建站
-<a markdown="1" href="https://pages.github.com/" class="btn">Github Pages 官网</a>
+
+<a markdown="21" href="https://pages.github.com/" class="btn">Github Pages 官网</a>
+
 * 如果想为自己的网站换个主题
+
 <a markdown="2" href="https://mademistakes.com/articles/minimal-mistakes-jekyll-theme/" class="btn">使用的主题</a>
+
 
 
