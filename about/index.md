@@ -30,7 +30,23 @@ image:
 
 * 如果想为自己的网站换个主题
 
-<div markdown="0"><a href="https://mademistakes.com/articles/minimal-mistakes-jekyll-theme/" class="btn">minimal mistakes</a></div>
+<div markdown="0"><a href="https://mademistakes.com/articles/minimal-mistakes-jekyll-theme/" class="btn btn-danger">minimal mistakes</a></div>
 
+##just for test
 
-
+> 1.**codehighlight**
+{% highlight c %}
+#include <stdio.h>
+int main()
+{
+	printf("hello,world!\n");	
+	return 0;
+}
+{% endhighlight %}
+> 2.**font size**
+# HELLO
+## HELLO
+### HELLO
+#### HELLO
+##### HELLO
+{: .notice}
