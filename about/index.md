@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the Theme
+title: About the Website
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
@@ -19,16 +19,14 @@ image:
 {:toc}
 </div>
 </section><!-- /#table-of-contents -->
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
 
-## Minimal Mistakes is all about:
+花了两天终于搭好了自己的blog，留着在以后学习工作过程中记录和分享一些感想和心得，暂时是这么想的吧。之前自己用python试着写过一个blog的服务器后台，但是不想花钱租服务器，于是搁浅在了localhost阶段。这段时间上网偶然发现一个有意思的东西-----github pages,于是浏览[官网](https://pages.github.com/)得知可以通过github 托管自己的静态页面，并可以绑定域名，这样就可以把自己写的东西完全交给github来管理，同时自己又拥有绝对的控制权。觉得可行，折腾了两天，于是就有了这个website.瞬间觉得搭建个漂亮的blog是那么的容易。
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+##以下是相关链接：
+* 介绍怎么使用Github Pages建站
+<a markdown="1" href="https://pages.github.com/" class="btn">Github Pages 官网</a>
+* 如果想为自己的网站换个主题
+<a markdown="2" href="https://mademistakes.com/articles/minimal-mistakes-jekyll-theme/" class="btn">使用的主题</a>
+
+
