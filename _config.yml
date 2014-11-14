@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title:            MiaozZ's site
-locale:           zh_CN
+locale:           en_US
 url:              //buptmiao.github.io 
 
 
@@ -34,8 +34,8 @@ owner:
   twitter: #username
   facebook: #username
   google:
-    plus: #username
-    analytics: 
+    plus: Miao
+    analytics: UA-56762284-1
     verify: 
     ad-client: 
     ad-slot: 
