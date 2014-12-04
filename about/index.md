@@ -32,29 +32,3 @@ image:
 
 <div markdown="0"><a href="https://mademistakes.com/articles/minimal-mistakes-jekyll-theme/" class="btn btn-danger">minimal mistakes</a></div>
 
-##Just for test
-
-> 1.**codehighlight**
-{% highlight c %}
-#include <stdio.h>
-int main()
-{
-	printf("hello,world!\n");	
-	return 0;
-}
-{% endhighlight %}
-
-> 2.**font size**
-
-# HELLO 1
-
-## HELLO 2
-
-### HELLO 3
-
-#### HELLO 4
-
-##### HELLO 5
-
-that is it
-{: .notice}

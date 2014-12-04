@@ -6,8 +6,8 @@
 - title: 文 章
   url: /posts/
 
-- title: 主 题
-  url: /theme-setup/
+#- title: 主 题
+#  url: /theme-setup/
 
 - title: 关于本站
   url: /about/
