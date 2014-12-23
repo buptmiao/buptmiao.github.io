@@ -2,7 +2,8 @@
 $doc-font-size: 16;
 $doc-line-height: 26;
 $paragraph-indent: true !default;
-$base-font: 'PT Serif', serif;
+//$base-font: 'PT Serif', serif;
+$base-font: 'PT Serif', Arial, Microsoft YaHei, Hiragino Sans GB, WenQuanYi Micro Hei;
 $heading-font: 'PT Sans Narrow', sans-serif;
 $code-font: Monaco, "Courier New", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace;
 $alt-font: $base-font;
