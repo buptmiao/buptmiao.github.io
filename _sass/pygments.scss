@@ -14,7 +14,7 @@
 	.hll { background-color: #49483e }
 	.c { color: #75715e } /* Comment */
 	.err { color: #960050; background-color: #1e0010 } /* Error */
-	.k { color: #66d9ef } /* Keyword */
+	.k { color: #f92672 } /* Keyword */
 	.l { color: #ae81ff } /* Literal */
 	.n { color: #f8f8f2 } /* Name */
 	.o { color: #f8f8f2 } /* Operator 白色*/
@@ -26,11 +26,11 @@
 	.ge { font-style: italic } /* Generic.Emph */
 	.gs { font-weight: bold } /* Generic.Strong */
 	.kc { color: #66d9ef } /* Keyword.Constant */
-	.kd { color: #66d9ef } /* Keyword.Declaration */
+	.kd { color: #f92672 } /* Keyword.Declaration */
 	.kn { color: #f92672 } /* Keyword.Namespace  红色*/
 	.kp { color: #66d9ef } /* Keyword.Pseudo */
 	.kr { color: #66d9ef } /* Keyword.Reserved */
-	.kt { color: #f92672 } /* Keyword.Type */
+	.kt { color: #66d9ef } /* Keyword.Type 蓝的*/
 	.ld { color: #e6db74 } /* Literal.Date 黄的*/
 	.m { color: #ae81ff } /* Literal.Number */
 	.s { color: #e6db74 } /* Literal.String */
