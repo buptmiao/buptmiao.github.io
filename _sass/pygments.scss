@@ -4,7 +4,7 @@
 	@include font(12);
 	color: #d0d0d0;
 	margin-bottom: 1.5em;
-	@include rounded(3px);
+	@include rounded(4px);
 	pre {
 		position: relative;
 		margin: 0;
@@ -17,7 +17,7 @@
 	.k { color: #66d9ef } /* Keyword */
 	.l { color: #ae81ff } /* Literal */
 	.n { color: #f8f8f2 } /* Name */
-	.o { color: #f92672 } /* Operator */
+	.o { color: #f8f8f2 } /* Operator */
 	.p { color: #f8f8f2 } /* Punctuation */
 	.cm { color: #75715e } /* Comment.Multiline */
 	.cp { color: #75715e } /* Comment.Preproc */
@@ -43,7 +43,7 @@
 	.ne { color: #a6e22e } /* Name.Exception */
 	.nf { color: #a6e22e } /* Name.Function */
 	.nl { color: #f8f8f2 } /* Name.Label */
-	.nn { color: #f8f8f2 } /* Name.Namespace */
+	.nn { color: #66d9ef } /* Name.Namespace */
 	.nx { color: #a6e22e } /* Name.Other */
 	.py { color: #f8f8f2 } /* Name.Property */
 	.nt { color: #f92672 } /* Name.Tag */
