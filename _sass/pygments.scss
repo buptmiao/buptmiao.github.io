@@ -4,7 +4,7 @@
 	@include font(12);
 	color: #d0d0d0;
 	margin-bottom: 1.5em;
-	@include rounded(4px);
+	@include rounded(3px);
 	pre {
 		position: relative;
 		margin: 0;
