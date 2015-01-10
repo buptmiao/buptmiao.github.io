@@ -27,11 +27,11 @@
 	.gs { font-weight: bold } /* Generic.Strong */
 	.kc { color: #66d9ef } /* Keyword.Constant */
 	.kd { color: #66d9ef } /* Keyword.Declaration */
-	.kn { color: #f92672 } /* Keyword.Namespace */
+	.kn { color: #f92672 } /* Keyword.Namespace  红色*/
 	.kp { color: #66d9ef } /* Keyword.Pseudo */
 	.kr { color: #66d9ef } /* Keyword.Reserved */
-	.kt { color: #66d9ef } /* Keyword.Type */
-	.ld { color: #e6db74 } /* Literal.Date */
+	.kt { color: #f92672 } /* Keyword.Type */
+	.ld { color: #e6db74 } /* Literal.Date 黄的*/
 	.m { color: #ae81ff } /* Literal.Number */
 	.s { color: #e6db74 } /* Literal.String */
 	.na { color: #a6e22e } /* Name.Attribute */
@@ -43,7 +43,7 @@
 	.ne { color: #a6e22e } /* Name.Exception */
 	.nf { color: #a6e22e } /* Name.Function */
 	.nl { color: #f8f8f2 } /* Name.Label */
-	.nn { color: #66d9ef } /* Name.Namespace */
+	.nn { color: #f92672 } /* Name.Namespace */
 	.nx { color: #a6e22e } /* Name.Other */
 	.py { color: #f8f8f2 } /* Name.Property */
 	.nt { color: #f92672 } /* Name.Tag */
