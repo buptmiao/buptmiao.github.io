@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Trie树(字典树)和Trie图
+title: Trie树(字典树)和AC自动机(Trie图)
 tags: [about, Jekyll, theme, responsive]
 comments: true
 image:
-  feature: 6.jpg
+  feature: 1.jpg
 ---
 
-今天看了下Trie树和Trie图，它们是用于统计大量字符串问题十分有力的工具。其中Trie图是在Trie树的基础上建立完成。原理是利用字符串的公共前缀来降低查询时间的开销以达到提高效率的目的。这里用两道题来分别说明Trie树和Trie图具体是怎么应用的。
+今天看了下Trie树、Trie图和AC自动机，它们是用于统计大量字符串问题十分有力的工具。其中AC自动机是在Trie树的基础上建立完成，而Trie图是一种确定性的AC自动机，本质是一个东西。Trie树基本原理是利用字符串的公共前缀来降低查询时间的开销以达到提高效率的目的。这里用两道题来分别说明Trie树和Trie图(AC自动机)具体是怎么应用的。
 
 
 ####题目一：Trie树
@@ -97,7 +97,7 @@ int main(int argc, char **argv)
 {% endhighlight %}
 
 
-####题目二：Trie图
+####题目二：Trie图或AC自动机
 
 
 给定有一个N个单词的敏感词汇表，和一篇文章，判断这篇文章中包含不包含敏感词汇。
